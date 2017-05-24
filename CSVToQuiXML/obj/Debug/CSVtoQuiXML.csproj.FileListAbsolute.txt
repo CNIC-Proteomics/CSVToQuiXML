@@ -1,0 +1,50 @@
+I:\DATUMARO\trabajo\programas_repositorio\CSVToQuiXML\trunk\abToQuiXML\obj\Debug\ResolveAssemblyReference.cache
+I:\DATUMARO\trabajo\programas_repositorio\CSVToQuiXML\trunk\abToQuiXML\obj\Debug\CSVtoQuiXML.frmHeaderSelection.resources
+I:\DATUMARO\trabajo\programas_repositorio\CSVToQuiXML\trunk\abToQuiXML\obj\Debug\CSVtoQuiXML.Properties.Resources.resources
+I:\DATUMARO\trabajo\programas_repositorio\CSVToQuiXML\trunk\abToQuiXML\obj\Debug\CSVtoQuiXML.csproj.GenerateResource.Cache
+I:\DATUMARO\trabajo\programas_repositorio\CSVToQuiXML\trunk\abToQuiXML\obj\Debug\abToQuiXML.exe
+I:\DATUMARO\trabajo\programas_repositorio\CSVToQuiXML\trunk\abToQuiXML\obj\Debug\CSVtoQuiXML.frmMain.resources
+I:\DATUMARO\trabajo\programas_repositorio\CSVToQuiXML\trunk\abToQuiXML\bin\Debug\abToQuiXML.exe.config
+I:\DATUMARO\trabajo\programas_repositorio\CSVToQuiXML\trunk\abToQuiXML\bin\Debug\abToQuiXML.exe
+I:\DATUMARO\trabajo\programas_repositorio\CSVToQuiXML\trunk\abToQuiXML\bin\Debug\abToQuiXML.pdb
+I:\DATUMARO\trabajo\programas_repositorio\CSVToQuiXML\trunk\abToQuiXML\obj\Debug\abToQuiXML.pdb
+I:\DATUMARO\trabajo\programas_repositorio\CSVToQuiXML\trunk\abToQuiXML\obj\Debug\CSVtoQuiXML.frmSelectSchema.resources
+C:\Documents and Settings\Marco\Escritorio\abToQuiXML\trunk\CSVToQuiXML\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Marco\Escritorio\abToQuiXML\trunk\CSVToQuiXML\obj\Debug\CSVtoQuiXML.frmMain.resources
+C:\Documents and Settings\Marco\Escritorio\abToQuiXML\trunk\CSVToQuiXML\obj\Debug\CSVtoQuiXML.frmHeaderSelection.resources
+C:\Documents and Settings\Marco\Escritorio\abToQuiXML\trunk\CSVToQuiXML\obj\Debug\CSVtoQuiXML.Properties.Resources.resources
+C:\Documents and Settings\Marco\Escritorio\abToQuiXML\trunk\CSVToQuiXML\obj\Debug\CSVtoQuiXML.frmSelectSchema.resources
+C:\Documents and Settings\Marco\Escritorio\abToQuiXML\trunk\CSVToQuiXML\obj\Debug\CSVtoQuiXML.csproj.GenerateResource.Cache
+C:\Documents and Settings\Marco\Escritorio\abToQuiXML\trunk\CSVToQuiXML\bin\Debug\CSVToQuiXML.exe.config
+C:\Documents and Settings\Marco\Escritorio\abToQuiXML\trunk\CSVToQuiXML\bin\Debug\CSVToQuiXML.exe
+C:\Documents and Settings\Marco\Escritorio\abToQuiXML\trunk\CSVToQuiXML\bin\Debug\CSVToQuiXML.pdb
+C:\Documents and Settings\Marco\Escritorio\abToQuiXML\trunk\CSVToQuiXML\obj\Debug\CSVToQuiXML.exe
+C:\Documents and Settings\Marco\Escritorio\abToQuiXML\trunk\CSVToQuiXML\obj\Debug\CSVToQuiXML.pdb
+I:\DATUMARO\trabajo\programas_repositorio\CSVToQuiXML\trunk\CSVToQuiXML\bin\Debug\CSVToQuiXML.exe.config
+I:\DATUMARO\trabajo\programas_repositorio\CSVToQuiXML\trunk\CSVToQuiXML\obj\Debug\CSVToQuiXML.exe
+I:\DATUMARO\trabajo\programas_repositorio\CSVToQuiXML\trunk\CSVToQuiXML\obj\Debug\CSVToQuiXML.pdb
+I:\DATUMARO\trabajo\programas_repositorio\CSVToQuiXML\trunk\CSVToQuiXML\bin\Debug\CSVToQuiXML.exe
+I:\DATUMARO\trabajo\programas_repositorio\CSVToQuiXML\trunk\CSVToQuiXML\bin\Debug\CSVToQuiXML.pdb
+I:\DATUMARO\trabajo\programas_repositorio\CSVToQuiXML\trunk\CSVToQuiXML\obj\Debug\ResolveAssemblyReference.cache
+I:\DATUMARO\trabajo\programas_repositorio\CSVToQuiXML\trunk\CSVToQuiXML\obj\Debug\CSVtoQuiXML.frmMain.resources
+I:\DATUMARO\trabajo\programas_repositorio\CSVToQuiXML\trunk\CSVToQuiXML\obj\Debug\CSVtoQuiXML.frmHeaderSelection.resources
+I:\DATUMARO\trabajo\programas_repositorio\CSVToQuiXML\trunk\CSVToQuiXML\obj\Debug\CSVtoQuiXML.Properties.Resources.resources
+I:\DATUMARO\trabajo\programas_repositorio\CSVToQuiXML\trunk\CSVToQuiXML\obj\Debug\CSVtoQuiXML.frmSelectSchema.resources
+I:\DATUMARO\trabajo\programas_repositorio\CSVToQuiXML\trunk\CSVToQuiXML\obj\Debug\CSVtoQuiXML.csproj.GenerateResource.Cache
+D:\DATUMARO\trabajo\programas_repositorio\CSVToQuiXML\trunk\CSVToQuiXML\bin\Debug\CSVToQuiXML.exe.config
+D:\DATUMARO\trabajo\programas_repositorio\CSVToQuiXML\trunk\CSVToQuiXML\bin\Debug\CSVToQuiXML.exe
+D:\DATUMARO\trabajo\programas_repositorio\CSVToQuiXML\trunk\CSVToQuiXML\bin\Debug\CSVToQuiXML.pdb
+D:\DATUMARO\trabajo\programas_repositorio\CSVToQuiXML\trunk\CSVToQuiXML\obj\Debug\ResolveAssemblyReference.cache
+D:\DATUMARO\trabajo\programas_repositorio\CSVToQuiXML\trunk\CSVToQuiXML\obj\Debug\CSVtoQuiXML.frmMain.resources
+D:\DATUMARO\trabajo\programas_repositorio\CSVToQuiXML\trunk\CSVToQuiXML\obj\Debug\CSVtoQuiXML.frmHeaderSelection.resources
+D:\DATUMARO\trabajo\programas_repositorio\CSVToQuiXML\trunk\CSVToQuiXML\obj\Debug\CSVtoQuiXML.Properties.Resources.resources
+D:\DATUMARO\trabajo\programas_repositorio\CSVToQuiXML\trunk\CSVToQuiXML\obj\Debug\CSVtoQuiXML.frmSelectSchema.resources
+D:\DATUMARO\trabajo\programas_repositorio\CSVToQuiXML\trunk\CSVToQuiXML\obj\Debug\CSVtoQuiXML.csproj.GenerateResource.Cache
+D:\DATUMARO\trabajo\programas_repositorio\CSVToQuiXML\trunk\CSVToQuiXML\obj\Debug\CSVToQuiXML.exe
+D:\DATUMARO\trabajo\programas_repositorio\CSVToQuiXML\trunk\CSVToQuiXML\obj\Debug\CSVToQuiXML.pdb
+D:\DATUMARO\trabajo\tareas realizadas\2017\2017-05-22 código fuente de los programas\CSVToQuiXML\CSVToQuiXML\bin\Debug\CSVToQuiXML.exe.config
+D:\DATUMARO\trabajo\tareas realizadas\2017\2017-05-22 código fuente de los programas\CSVToQuiXML\CSVToQuiXML\obj\Debug\CSVToQuiXML.exe
+D:\DATUMARO\trabajo\tareas realizadas\2017\2017-05-22 código fuente de los programas\CSVToQuiXML\CSVToQuiXML\obj\Debug\CSVToQuiXML.pdb
+D:\DATUMARO\trabajo\github\CSVToQuiXML\CSVToQuiXML\bin\Debug\CSVToQuiXML.exe.config
+D:\DATUMARO\trabajo\github\CSVToQuiXML\CSVToQuiXML\obj\Debug\CSVToQuiXML.exe
+D:\DATUMARO\trabajo\github\CSVToQuiXML\CSVToQuiXML\obj\Debug\CSVToQuiXML.pdb
